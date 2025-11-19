@@ -1,21 +1,18 @@
 # Weekend Planner Agent Team
 
 An **AI‑powered weekend itinerary planner** built with **Python** and **Google ADK**.  
-This project demonstrates **multi‑agent orchestration**: three specialized agents collaborate to transform a free‑form travel query into a structured, two‑day itinerary.
+This project demonstrates **multi‑agent orchestration**: three specialized agents collaborate to form a structured, two‑day travel itinerary.
 1. Extracts user travel interests
 2. Discovers points of interest (POIs)
 3. Builds a structured weekend itinerary
-
+https://github.com/maryam-v/weekend-planner-agent/tree/main
 ---
 
 ## ✨ Features
 
 - **Multi‑agent orchestration**: Sequential delegation across three agents
 - **Async workflow handling**: Smooth event streaming with robust error handling
-- **Colored logging**: Clear, step‑by‑step outputs using [`rich`](https://github.com/Textualize/rich)
-- **Professional documentation**: Diagrams, screenshots, and `.env` secrets management
-- **Plug‑and‑play demo**: Run `main.py` once and see the full pipeline in action
-
+  
 ---
 
 ## 🧩 Agent Pipeline Flow
