@@ -76,7 +76,7 @@ python main.py
 ## 🎨 Demo Output
 Here’s what the pipeline looks like when you run `python main.py`:
 
-![Weekend Planner Demo Screenshot](docs/demo-output.png)
+![Weekend Planner Demo Screenshot](docs/demo_output.png)
 
 ---
 
