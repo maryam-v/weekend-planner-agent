@@ -28,7 +28,8 @@ This project demonstrates **multi‑agent orchestration**: three specialized age
 
 ---
 
-# 📂 Project Structure
+## 📂 Project Structure
+
 ```
 weekend-planner/
 ├── agents.py          # Defines the three specialized agents
@@ -42,7 +43,7 @@ weekend-planner/
 ```
 ---
 
-# 🚀 Setup
+## 🚀 Setup
 
 1. Clone the repo install dependencies:
 
